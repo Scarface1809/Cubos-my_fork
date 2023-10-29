@@ -1,6 +1,6 @@
 #include <cubos/core/io/keyboard.hpp>
 #include <cubos/core/log.hpp>
-
+#include <algorithm>
 #include <cubos/engine/input/axis.hpp>
 
 using cubos::core::io::GamepadAxis;
